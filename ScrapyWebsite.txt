@@ -1,0 +1,2 @@
+# here i scrapy film-groupon info about bei_jing ,but you can scrapy wherever you like !
+http://tuan.360.cn/bei_jing/c_0.html?kw=µÁ”∞&pageno=1#tuanFilter
